@@ -54,10 +54,6 @@ print(f"Predicted Value: {pre}")
 
 ## Output:
 ![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/bbdc2cca-f003-4e42-bb7d-df7b8f3e0307)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/d0a21b53-8e0a-4f46-8ee3-6745cf227ec0)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/5de310fc-f764-4af1-a1ce-84d3e0d648e9)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/fa722409-32cc-4e1e-ba28-8274e6cd2fa8)
-![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/772de942-c4e2-47d9-b8e9-4a29044146a6)
 ![image](https://github.com/Hariveeraprasad-2006/Implementation-of-Linear-Regression-Using-Gradient-Descent/assets/145049988/84c08fc8-3745-41f6-b244-d74480744a65)
 
 ## Result:
